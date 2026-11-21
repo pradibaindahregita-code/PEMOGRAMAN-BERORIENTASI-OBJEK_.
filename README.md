@@ -1,5 +1,4 @@
 # PORTOFOLIO PEMOGRAMAN BERORIENTASI OBJEK (PBO)
-# UTS Pemrograman Berorientasi Objek
 
 Repository ini berisi tugas UTS saya untuk mata kuliah Pemrograman Berorientasi Objek (PBO), yaitu resume materi dasar OOP di Python dan satu program praktik.
 
