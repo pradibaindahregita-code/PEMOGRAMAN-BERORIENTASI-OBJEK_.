@@ -7,7 +7,7 @@ Repository ini berisi tugas UTS saya untuk mata kuliah Pemrograman Berorientasi 
 **NIM:** 14022500104
 **Program Studi:** Sistem Informasi
 **Universitas:** Universitas Bina Bangsa
-**Dosen Pengampu:** [isi nama dosen]
+**Dosen Pengampu:** Dieng Asep Jamaludin, S.Pd., M.T.
 
 ---
 
