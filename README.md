@@ -37,11 +37,6 @@ Program ini menceritakan percakapan dua mahasiswa, Indah dan Aliyah, yang bertem
 
 File program: [MAHASISWA DI CAFE.py](02-Project-Python/MAHASISWA%20DI%20CAFE.py)
 
-Cara menjalankan:
-
-```
-python "MAHASISWA DI CAFE.py"
-```
 
 ## Bahasa Pemrograman
 
